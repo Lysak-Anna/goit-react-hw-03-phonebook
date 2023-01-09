@@ -17,14 +17,12 @@ export const Input = styled.input`
     outline: none;
   }
 `;
-
 export const Div = styled.div`
   position: relative;
   margin-bottom: 20px;
 `;
 export const SearchIcon = styled(CiSearch)`
   position: absolute;
-  zindex: 5;
   top: 8px;
   left: 8px;
   color: #535f80;

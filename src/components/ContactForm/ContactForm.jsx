@@ -1,5 +1,4 @@
 import PropTypes from 'prop-types';
-
 import { Input } from 'components/Filter/Filter.styled';
 import { Label, AddIcon, MobileIcon, UserIcon } from './ContactForm.styled';
 import { Button } from 'components/Wrapper/Wrapper.styled';
